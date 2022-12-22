@@ -14,7 +14,13 @@ The donation system will allow admins to make packages, set up events, set coupo
 **Discord Bot**
 The Discord Bot will allow community owners and admins with permissions to warn, mute, ban, kick, and timeout users, which will be stored in the Ultimate Ban Manager. It also allows for calls to the API that sends a message in a specified channel whenever someone is banned, donates, and more!
 
+# Installation
+
 Read INSTALL.md for instructions on how to install.
+
+# License
+
+Please see LICENSE.md for more information on the license of Ultimate Game Server Manager.
 
 # Security Policy
 
