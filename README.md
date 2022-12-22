@@ -1,4 +1,4 @@
-**Ultimate Game Community Manager**
+# Ultimate Game Community Manager
 
 Ultimate Game Community Manager is a whole website system that people can use to easily make their own gaming community website with a ban management system and donation system built in. It allows a gaming community owner to choose what all they want to install (Just the website, donation system, and ban system or any combination of these), and it all worka together with one theme, one login, and users and admins can link their steam account so they can do everything all in one place. All of the systems are setup using one database with tables so that everything functions together. All database tables and values are cached in a Redis server (if you decide to use one), in case of an API failure.
 
