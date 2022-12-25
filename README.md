@@ -1,10 +1,10 @@
-# Ultimate Game Community Manager
+# Ultimate Gaming Community Manager
 
-Ultimate Game Community Manager is a whole website system that people can use to easily make their own gaming community website with a ban management system and donation system built in. It allows a gaming community owner to choose what all they want to install (Just the website, donation system, and ban system or any combination of these), and it all works together with one theme, one login, and users and admins can link their steam account so they can do everything all in one place. All of the systems are setup using one database with tables so that everything functions together. All database tables and values are cached in a Redis server (if you decide to use one), in case of an API failure.
+Ultimate Gaming Community Manager is a whole website system that people can use to easily make their own gaming community website with a ban management system and donation system built in. It allows a gaming community owner to choose what all they want to install (Just the website, donation system, and ban system or any combination of these), and it all works together with one theme, one login, and users and admins can link their steam account so they can do everything all in one place. All of the systems are setup using one database with tables so that everything functions together. All database tables and values are cached in a Redis server (if you decide to use one), in case of an API failure.
 
 The main website will have a Content Management System (CMS) where gaming community owners and admins can add pages, elements, and create a whole blog and everything using beautiful Bootstrap elements.
 
-The Ultimate Game Community Manager's website is made up of two sections, and a Discord bot that is made to work with it.
+The Ultimate Gaming Community Manager's website is made up of two sections, and a Discord bot that is made to work with it.
 
 ## Part 1: The Ultimate Ban Manager
 
@@ -22,13 +22,13 @@ Read INSTALL.md for instructions on how to install.
 
 # License
 
-Please see LICENSE.md for more information on the license of Ultimate Game Server Manager.
+Please see LICENSE.md for more information on the license of Ultimate Gaming Server Manager.
 
 # Security Policy
 
 ## Supported Versions
 
-Please make sure you have the latest version of Ultimate Game Community Manager. If your version is outdated, please update using the instructions in the Wiki.
+Please make sure you have the latest version of Ultimate Gaming Community Manager. If your version is outdated, please update using the instructions in the Wiki.
 
 | Version | Supported          |
 | ------- | ------------------ |
